@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## Loan Prediction (Stacking)
 This project focuses on predicting loan approval status using machine learning techniques.  
 A **stacking ensemble model** is implemented by combining multiple base learners to improve prediction performance.
 
